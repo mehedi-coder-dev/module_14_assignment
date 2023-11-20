@@ -1,0 +1,24 @@
+.bg_color{
+    background: linear-gradient(180deg, #D7F5DC 0%, #D7F5DC 100%);
+
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+.btn-border{
+    border: none;
+}
+.message{
+    width: 70px;
+}
+.icon_w{
+    width: 60px;
+}
+.slid_w{
+    width: 130px;
+}
+.featured_color{
+    background: linear-gradient(180deg, #dbf3df 0%, #D7F5DC 100%);
+
+}
